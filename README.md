@@ -1,4 +1,4 @@
-# labrahmi-test
+# Ecommerce API
 ## Implemented features:
 1- JWT authentication using djoser  
 2- User can Sign up  
@@ -10,7 +10,7 @@
 8- I implemented some tests for authentication app and ecommerce app  
 9- I implemented the Sagger ui for the API
 
-Due to the time limit constraint I didn't add the docker, Celery, and Bonus features  
+Future features: Celery tasks, GraphQL implementation
 
 ## Routes  
 ![swaggerui](https://user-images.githubusercontent.com/53056517/161743922-17d09407-13ba-494e-8047-cf17aeaecca1.PNG)
